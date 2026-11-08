@@ -68,5 +68,5 @@ Soy estudiante de la tecnicatura Ciencia de Datos e IA e instructor en un Centro
 ---
 
 <div align="center">
-<sub>Siempre aprendiendo, siempre construyendo · Venezuela 🇻🇪</sub>
+<sub></sub>
 </div>
